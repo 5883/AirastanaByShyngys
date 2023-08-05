@@ -1,0 +1,4 @@
+2023-08-05 07:44:31,070 INFO  Sample info message 
+2023-08-05 07:44:31,070 WARN  Sample warn message 
+2023-08-05 07:44:31,070 ERROR Sample error message 
+2023-08-05 07:44:31,071 FATAL Sample fatal message 
