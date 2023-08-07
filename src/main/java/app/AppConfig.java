@@ -2,6 +2,6 @@ package app;
 
 public class AppConfig {
 
-    public static final String baseUrl = "https://airastana.com";
+    public static final String baseUrl = "https://airastana.com/kaz/ru-RU";
 
 }
